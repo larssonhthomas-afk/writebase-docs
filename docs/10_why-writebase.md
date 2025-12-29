@@ -16,7 +16,7 @@ I got stuck in the automation world: endless "tools", copy-and-pray workflows, a
 
 So I built *WriteBase*. A simple Markdown editor with real power. It connects to my own Airtable base, which becomes the foundation for whatever I want to build. My words. My structure. My data. No features I won't use. Just a clean space to write, and a foundation I control. From there I can build agents I define.
 
-![WriteBase - Data View](asset:receWHWZNKVsmVPKS:attWZD1oCt3axral4)
+![WriteBase - Data View](./assets/CleanShot_2025-12-25_at_13.00.42_2x.png)
 
 I had never seen my data before. Now I do.
 
