@@ -1,0 +1,25 @@
+site_name: WriteBase
+site_url: https://doc.writebase.app
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+  features:
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Why WriteBase: why-writebase.md
+  - Markdown Test: markdown-test.md
+  - Waiting List: waiting-list---information.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/substack
+      link: https://thomaslarsson.substack.com
