@@ -6,9 +6,9 @@ nav_order: 10
 # Why I built WriteBase
 Markdown Editor. All Data Visible. My Process.
 
-I'm a writer. Not a developer. I also do design and information architecture. For years, I hunted for a writing app with minimal design, real focus, and database-level automation flexibility. I tried them all. Ulysses looked great, but it locked me in. Then came AI and Agents and disrupted everything, again.
+I'm a writer. Not a developer. I also do design and information architecture. For years, I hunted for a writing app with minimal design, real focus, and database-level automation flexibility. I tried them all. Ulysses looked great, but it locked me in. Then came AI and Agents and disrupted everything, again...
 
-![WriteBase - Editor View](asset:recgNuG4cJilKbruQ:attnbFp0w1K6c4vfM)
+![WriteBase - Editor View](./assets/CleanShot_2025-12-25_at_12.56.15_2x.png)
 
 I got stuck in the automation world: endless "tools", copy-and-pray workflows, and black boxes. The architecture is a mess. Big players like Microsoft and Google are patching legacy systems. I hit a wall and realized I didn't even know what I was building toward. So I used the only tool I had left: my brain. I started thinking like an architect.
 
