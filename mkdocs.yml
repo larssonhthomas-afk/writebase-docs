@@ -10,8 +10,8 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
-    - toc.integrate
     - search.suggest
+    - toc.follow
 
 nav:
   - Home: index.md
