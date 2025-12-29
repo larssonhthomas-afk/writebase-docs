@@ -6,3 +6,9 @@ color_scheme: light
 
 aux_links:
   "Substack": "https://thomaslarsson.substack.com"
+
+# Table of Contents på höger sida
+toc:
+  enabled: true
+  min_level: 2
+  max_level: 4
