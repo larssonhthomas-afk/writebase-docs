@@ -1,0 +1,8 @@
+title: WriteBase
+description: Documentation for WriteBase
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+
+aux_links:
+  "Substack": "https://thomaslarsson.substack.com"
