@@ -8,6 +8,6 @@ aux_links:
   "Substack": "https://thomaslarsson.substack.com"
 
 # Aktivera höger TOC
-toc_enabled: true
+toc:
   min_level: 2
   max_level: 4
