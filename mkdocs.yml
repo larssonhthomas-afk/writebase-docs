@@ -1,13 +1,13 @@
-# Force rebuild
 site_name: WriteBase
 site_url: https://doc.writebase.app
 docs_dir: docs
-
 
 theme:
   name: material
   palette:
     scheme: default
+    primary: deep purple
+    accent: deep purple
   font:
     text: Inter
     code: Roboto Mono
@@ -16,9 +16,6 @@ theme:
     - navigation.sections
     - search.suggest
     - toc.follow
-
-extra_css:
-  - https://raw.githubusercontent.com/larssonhthomas-afk/writebase-docs/main/docs/stylesheets/extra.css
 
 markdown_extensions:
   - toc:
