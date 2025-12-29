@@ -8,7 +8,7 @@ Markdown Editor. All Data Visible. My Process.
 
 I'm a writer. Not a developer. I also do design and information architecture. For years, I hunted for a writing app with minimal design, real focus, and database-level automation flexibility. I tried them all. Ulysses looked great, but it locked me in. Then came AI and Agents and disrupted everything, again.
 
-![WriteBase - Editor View](./assets/CleanShot_2025-12-25_at_12.56.15_2x.png)
+![WriteBase - Editor View](asset:recgNuG4cJilKbruQ:attnbFp0w1K6c4vfM)
 
 I got stuck in the automation world: endless "tools", copy-and-pray workflows, and black boxes. The architecture is a mess. Big players like Microsoft and Google are patching legacy systems. I hit a wall and realized I didn't even know what I was building toward. So I used the only tool I had left: my brain. I started thinking like an architect.
 
@@ -16,7 +16,7 @@ I got stuck in the automation world: endless "tools", copy-and-pray workflows, a
 
 So I built *WriteBase*. A simple Markdown editor with real power. It connects to my own Airtable base, which becomes the foundation for whatever I want to build. My words. My structure. My data. No features I won't use. Just a clean space to write, and a foundation I control. From there I can build agents I define.
 
-![WriteBase - Data View](./assets/CleanShot_2025-12-25_at_13.00.42_2x.png)
+![WriteBase - Data View](asset:receWHWZNKVsmVPKS:attWZD1oCt3axral4)
 
 I had never seen my data before. Now I do.
 
