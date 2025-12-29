@@ -1,6 +1,6 @@
 ---
 title: "Why WriteBase"
-nav_order: 2
+nav_order: 0
 ---
 
 # Why I built WriteBase
