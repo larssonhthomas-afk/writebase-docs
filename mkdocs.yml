@@ -18,7 +18,7 @@ theme:
     - toc.follow
 
 extra_css:
-  - stylesheets/extra.css
+  - https://raw.githubusercontent.com/larssonhthomas-afk/writebase-docs/main/docs/stylesheets/extra.css
 
 markdown_extensions:
   - toc:
