@@ -9,8 +9,8 @@ theme:
     primary: deep purple
     accent: deep purple
   font:
-    text: Inter
-    code: Roboto Mono
+    text: system-ui, Inter, sans-serif
+    code: Roboto Mono, monospace
   features:
     - navigation.instant
     - navigation.sections
