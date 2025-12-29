@@ -1,8 +1,4 @@
-.md-header {
-  font-weight: 700 !important;
-}
-
-.md-header__title {
+h1, h2, h3, h4 {
   font-weight: 700 !important;
   color: #363737 !important;
 }
