@@ -13,6 +13,11 @@ theme:
     - search.suggest
     - toc.follow
 
+markdown_extensions:
+  - toc:
+      toc_depth: 4
+      title: On this page
+
 nav:
   - Home: index.md
   - Why WriteBase: why-writebase.md
