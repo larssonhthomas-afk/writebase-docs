@@ -1,6 +1,8 @@
+# Force rebuild
 site_name: WriteBase
 site_url: https://doc.writebase.app
 docs_dir: docs
+
 
 theme:
   name: material
