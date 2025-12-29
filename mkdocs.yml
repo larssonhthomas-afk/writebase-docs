@@ -17,6 +17,10 @@ markdown_extensions:
   - toc:
       toc_depth: 4
       title: On this page
+      toc_class: toc
+      anchorlink: true
+      permalink: true
+      baselevel: 1
 
 nav:
   - Home: index.md
