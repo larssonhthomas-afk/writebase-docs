@@ -22,9 +22,3 @@ markdown_extensions:
       toc_depth: 4
       title: On this page
       baselevel: 1
-
-nav:
-  - Home: index.md
-  - Why WriteBase: why-writebase.md
-  - Markdown Test: markdown-test.md
-  - Waiting List: waiting-list---information.md
