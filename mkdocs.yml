@@ -6,20 +6,22 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: indigo
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
     - navigation.instant
     - navigation.sections
     - search.suggest
     - toc.follow
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - toc:
       toc_depth: 4
       title: On this page
-      toc_class: toc
-      anchorlink: true
-      permalink: true
       baselevel: 1
 
 nav:
