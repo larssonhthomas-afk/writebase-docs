@@ -10,9 +10,7 @@ Im seeking the first 8 to test this product out. You will be called the Gang of 
 
 During a few months, we will test this product to the limit and see what we should fix before launching. I´m thinking weekly checkins. A chat channel somewhere. And a lot of fun testing it out.
 
-
-
-I'm seeking people who write and need to better organize their writing data. 
+Who are you?
 
 You could be a content creator, a wiki producer, or just writing fiction that needs some structure. I think we have you covered.
 
