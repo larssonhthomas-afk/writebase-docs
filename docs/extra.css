@@ -167,11 +167,11 @@ body {
 
 /* Sidebar */
 .md-sidebar {
-  background: white;
+  background: transparent;
 }
 
 .md-sidebar__scrollwrap {
-  border-right: 1px solid var(--stone-200);
+  border-right: none;
 }
 
 .md-nav__title {
