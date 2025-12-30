@@ -18,4 +18,4 @@ You could be a content creator, a wiki producer, or just writing fiction that ne
 
 It helps if you already use Airtable, but it is not required. You will learn and love the structure it can give you.
 
-Follow this link and 
+Follow this link 
