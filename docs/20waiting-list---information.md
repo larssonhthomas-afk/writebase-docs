@@ -4,46 +4,62 @@ title: "Waiting list - information"
 nav_order: 20
 ---
 
-### Core Message
-A small “Gang of 8” beta turns a messy writing workflow into a system you control, with Airtable as the backbone and AI as a tool you direct.
+# I Own My Writing Process
 
-### Audience
-Builders who write.
-Content creators, wiki/documentation producers, and fiction writers who want structure and repeatability without losing ownership.
+What if you could stop renting your workflow and start owning it.
 
-### Structure
-1. Hook: “I own my writing process.”
-2. Problem: Writing scatters across docs, tabs, prompts, and tools.
-3. Solution: A controlled beta with 8 testers (“Gang of 8”) to stress-test the system.
-4. How it works: Weekly check-ins + shared channel + Airtable base/forms for inputs + feedback loops.
-5. End line: “AI works for me.”
+## The Problem
 
-Gaps:
-- What the product is called and what it outputs (templates, workflows, automations, prompts). [NEEDS SOURCE]
-- What “test to the limit” means (metrics, success criteria). [NEEDS SOURCE]
-- Where the chat channel lives (Slack, Discord, etc.). [NEEDS SOURCE]
+Writing scatters. Docs pile up in one folder. Prompts live in another. AI outputs land somewhere else. You copy-paste between tabs, lose context, and rebuild the same structure every time you start a new piece.
 
-### Sources
-Supporting 1
-- Claim: Airtable runs both private and public betas, and public betas may include sign-up and feedback forms.
-- Source: Airtable Help Center — “Airtable Public Betas”(https://support.airtable.com/docs/airtable-public-betas)
-- Quote: "At Airtable, there is a mix of private and public betas. Private betas are not listed below."  
-  "Sometimes a sign-up form for the beta will be posted with the article. If you have feedback, then a feedback form will also be available in the article."
+The tools multiply. The chaos compounds.
 
-Supporting 2
-- Claim: Airtable forms can collect submissions from people without Airtable accounts via a share link.
-- Source: Airtable Help Center — “Building and sharing forms in Airtable”(https://support.airtable.com/docs/building-and-sharing-forms-in-airtable)
-- Quote: "Collaborators with and without Airtable accounts - Anyone with access to open up a form share link in a browser can submit a form response."
+Most AI writing setups make this worse. You feed prompts into a black box. You get output. You have no idea why it worked or how to repeat it. The AI owns the process. You just press buttons.
 
-Counter-argument
-- Claim: Splitting participants into one table per beta/program creates unavoidable aggregation pain; a single submissions table linked to programs is cleaner.
-- Source: Airtable Community — “How to track Beta Program participant sign-ups”(https://community.airtable.com/base-design-9/how-to-track-beta-program-participant-sign-ups-31767)
-- Quote: "Personally I'd just have one table that contained all the form submissions for all the programs instead of having one table per program."
+## The Solution
 
-NOT FOUND: “Weekly check-ins are the best cadence for early beta testers.”
-NOT FOUND: “A chat channel is required for successful beta programs.”
+I am building a system that flips this. Airtable as the backbone. AI as a tool you direct. Everything in one place: instructions, sources, drafts, feedback.
 
-### Argument Chain
-[Observation] → Writing work fragments across tools, prompts, and files.  
-[Mechanism] → A small, committed cohort feeds structured inputs (forms) and structured feedback (weekly check-ins) into one system you control.  
-[Conclusion] → You improve the workflow fast while keeping ownership of instructions, data, and output. AI stays subordinate.
+To stress-test it, I am running a small private beta. Eight people. The Gang of 8.
+
+This is not a product launch. It is a controlled experiment. Eight builders who write. Content creators, documentation producers, fiction writers. People who want structure and repeatability without losing ownership.
+
+## How It Works
+
+The system runs on Airtable. Forms collect structured inputs. Tables store everything: voice instructions, research, argument chains, drafts. Automations connect the pieces.
+
+Airtable forms work for anyone with a browser. No account required. According to [Airtable's documentation](https://support.airtable.com/docs/building-and-sharing-forms-in-airtable), "Anyone with access to open up a form share link in a browser can submit a form response."
+
+This matters. Testers can submit feedback, flag problems, and request features without friction.
+
+The beta structure:
+
+- **Weekly check-ins.** Short async updates. What worked. What broke. What needs fixing.
+- **Shared channel.** Direct access to me and other testers. Real-time problem-solving.
+- **Structured feedback loops.** Forms for specific input. Not open-ended surveys.
+
+Airtable runs both private and public betas this way. Sign-up forms, feedback forms, documentation. The infrastructure exists.
+
+One design decision worth noting: I am keeping all beta participants in a single submissions table linked to the program, not splitting them across separate tables. A community discussion on [tracking beta program sign-ups](https://community.airtable.com/base-design-9/how-to-track-beta-program-participant-sign-ups-31767) put it clearly: "Personally I'd just have one table that contained all the form submissions for all the programs instead of having one table per program." Cleaner aggregation. Less maintenance pain.
+
+## What Testers Get
+
+Access to the full system. The Airtable base. The prompt templates. The automation workflows. The voice instruction framework.
+
+You see how everything connects. You can fork it, modify it, break it.
+
+In return, I need honest feedback. What confuses you. What slows you down. What you wish existed.
+
+Eight people is small by design. Enough to surface real problems. Small enough to iterate fast.
+
+## The Ownership Principle
+
+Every piece of this system stays under your control.
+
+Your voice instructions. Your data. Your output. The AI follows your rules. It does not set them.
+
+Most writing tools hide the machinery. You cannot see the prompts. You cannot adjust the logic. You cannot export your setup and run it somewhere else.
+
+This system exposes everything. You own the instructions. You own the process. You can rebuild it without me.
+
+AI works for me. Not the other way around.
