@@ -4,7 +4,7 @@ title: "Waiting list - information"
 nav_order: 20
 ---
 
-# Waiting list - information
+# Waiting list - and the Gang of 8
 
 I'm seeking the first 8 to test this product out. You will be called the Gang of 8 and will have a special place in my heart. 
 
