@@ -12,6 +12,6 @@ During a few months, we will test this product to the limit and see what we shou
 
 Who are you?
 
-You could be a content creator, a wiki producer, or just writing fiction that needs some structure. I think we have you covered.
+You could be a content creator, a wiki producer, or just writing fiction that needs some structure. I think  have you covered.
 
 It helps if you already use Airtable, but it is not required. You will learn :-)
