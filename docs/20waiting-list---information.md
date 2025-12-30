@@ -14,4 +14,4 @@ Who are you?
 
 You could be a content creator, a wiki producer, or just writing fiction that needs some structure. I think you are covered.
 
-It helps if you already use Airtable, but it is not required. You will learn :-)
+It helps if you already use Airtable, but it is not required. You will learn and love the structure it can give you.
