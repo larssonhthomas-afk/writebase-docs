@@ -38,6 +38,6 @@ And because I'm an Airtable fan, I keep building: AI agents, workflows, and a we
 
 If you're like me, subscribe to this Substack. I'll announce when you can start using it.
 
-
+## Gang of 8
 
 PS: I'm looking for a "Gang of Eight" to evaluate and test the tool, and to push improvements. You write in some form. You want a better structure. Airtable sounds interesting, and you may have tried it before. Send me a note with your subscription.
