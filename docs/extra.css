@@ -1,18 +1,297 @@
-h1, h2, h3, h4 {
-  font-weight: 700 !important;
-  color: #363737 !important;
+/* WriteBase Documentation Theme
+   Matches: writebase.app landing page
+   ================================== */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Stone palette */
+  --stone-50: #fafaf9;
+  --stone-100: #f5f5f4;
+  --stone-200: #e7e5e4;
+  --stone-300: #d6d3d1;
+  --stone-400: #a8a29e;
+  --stone-500: #78716c;
+  --stone-600: #57534e;
+  --stone-700: #44403c;
+  --stone-800: #292524;
+  --stone-900: #1c1917;
+  
+  /* Brand gradient */
+  --gradient-brand: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #a855f7 100%);
+  --purple-500: #7c3aed;
+  --purple-100: #ede9fe;
+
+  /* MkDocs Material overrides */
+  --md-primary-fg-color: var(--stone-900);
+  --md-primary-bg-color: var(--stone-50);
+  --md-accent-fg-color: var(--purple-500);
+  --md-default-fg-color: var(--stone-800);
+  --md-default-fg-color--light: var(--stone-500);
+  --md-default-fg-color--lighter: var(--stone-400);
+  --md-default-bg-color: var(--stone-50);
+  --md-code-bg-color: var(--stone-100);
+  --md-code-fg-color: var(--stone-800);
+  --md-typeset-a-color: var(--purple-500);
 }
 
-body, p, li, td {
-  font-size: 19px !important;
-  line-height: 30px !important;
+/* Body */
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--stone-50);
+  color: var(--stone-800);
 }
 
+/* Headings - Inter bold with tight spacing */
 .md-typeset h1 {
-  margin: 0 !important;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--stone-900);
 }
 
-.md-nav__link .md-ellipsis {
-  font-size: 16px !important;
-  line-height: 20px !important;
+.md-typeset h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--stone-900);
+  border-bottom: 1px solid var(--stone-200);
+  padding-bottom: 0.5rem;
+}
+
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: var(--stone-800);
+}
+
+/* Body text */
+.md-typeset {
+  font-family: 'DM Sans', sans-serif;
+  color: var(--stone-600);
+  line-height: 1.7;
+}
+
+/* Links */
+.md-typeset a {
+  color: var(--purple-500);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.md-typeset a:hover {
+  color: var(--stone-900);
+}
+
+/* Code - JetBrains Mono */
+.md-typeset code,
+.md-typeset pre code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.md-typeset code {
+  background: var(--stone-100);
+  color: var(--stone-800);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.875em;
+}
+
+.md-typeset pre {
+  background: var(--stone-900);
+  border-radius: 12px;
+}
+
+.md-typeset pre code {
+  background: none;
+  color: var(--stone-100);
+}
+
+/* Header */
+.md-header {
+  background: rgba(250, 250, 249, 0.9);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--stone-200);
+  box-shadow: none;
+}
+
+.md-header[data-md-state="shadow"] {
+  box-shadow: none;
+  border-bottom: 1px solid var(--stone-200);
+}
+
+.md-header__title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--stone-900);
+}
+
+.md-header__button.md-logo img {
+  height: 28px;
+}
+
+/* Navigation */
+.md-nav__link {
+  font-family: 'DM Sans', sans-serif;
+  color: var(--stone-600);
+}
+
+.md-nav__link:hover {
+  color: var(--stone-900);
+}
+
+.md-nav__link--active {
+  color: var(--purple-500);
+  font-weight: 600;
+}
+
+.md-nav__item--active > .md-nav__link {
+  color: var(--purple-500);
+}
+
+/* Sidebar */
+.md-sidebar {
+  background: white;
+}
+
+.md-sidebar__scrollwrap {
+  border-right: 1px solid var(--stone-200);
+}
+
+.md-nav__title {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--stone-400);
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--stone-200);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--stone-100);
+  font-weight: 600;
+  color: var(--stone-700);
+}
+
+.md-typeset table:not([class]) td {
+  border-color: var(--stone-100);
+}
+
+/* Blockquotes */
+.md-typeset blockquote {
+  border-left: 3px solid var(--purple-500);
+  background: var(--purple-100);
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+  color: var(--stone-700);
+}
+
+/* Admonitions / Callouts */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+/* Note callout */
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  background: var(--purple-100);
+  border-left: 3px solid var(--purple-500);
+}
+
+/* Buttons */
+.md-typeset .md-button {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  border-radius: 100px;
+  padding: 0.75rem 1.5rem;
+}
+
+.md-typeset .md-button--primary {
+  background: var(--stone-900);
+  border-color: var(--stone-900);
+}
+
+.md-typeset .md-button--primary:hover {
+  background: var(--stone-700);
+  border-color: var(--stone-700);
+}
+
+/* Search */
+.md-search__input {
+  background: var(--stone-100);
+  border-radius: 100px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.md-search__input::placeholder {
+  color: var(--stone-400);
+}
+
+/* Footer */
+.md-footer {
+  background: white;
+  border-top: 1px solid var(--stone-200);
+}
+
+.md-footer-meta {
+  background: var(--stone-50);
+}
+
+/* Cards (for grid layouts) */
+.md-typeset .grid.cards > ul > li {
+  background: white;
+  border: 1px solid var(--stone-200);
+  border-radius: 12px;
+  box-shadow: none;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--stone-300);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+/* Selection */
+::selection {
+  background: var(--purple-100);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--stone-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--stone-300);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--stone-400);
 }
