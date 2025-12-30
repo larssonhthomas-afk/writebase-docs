@@ -262,6 +262,10 @@ body {
 }
 
 /* Search */
+.md-search {
+  margin-left: auto;
+}
+
 .md-search__form {
   background: var(--stone-100);
   border-radius: 100px;
