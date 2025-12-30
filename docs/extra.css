@@ -179,6 +179,11 @@ body {
   box-shadow: none;
 }
 
+.md-nav--secondary .md-nav__title {
+  background: transparent;
+  box-shadow: none;
+}
+
 .md-nav__title {
   font-family: 'Inter', sans-serif;
   font-size: 0.65rem;
