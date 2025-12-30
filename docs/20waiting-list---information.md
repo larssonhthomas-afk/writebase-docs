@@ -8,6 +8,8 @@ nav_order: 20
 
 Im seeking the first 8 to test this product out. You will be called the Gang of 8 and will have a special place in my heart. 
 
+
+
 If you are interested in what we are building, you should be on the waiting list. In a short while (when we have tested as much of the product as we can), you will be one of the first 10 to test and be involved in further product development.
 
 I'm seeking people who write and need to better organize their writing data. 
