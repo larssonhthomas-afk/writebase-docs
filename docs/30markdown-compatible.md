@@ -8,6 +8,8 @@ nav_order: 30
 
 This document is a test of what Markdown that works within the editor (app) and all the way to publish.
 
+# Headers
+
 # Header 1
 
 ## Header 2
