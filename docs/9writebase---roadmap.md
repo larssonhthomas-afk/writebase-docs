@@ -38,7 +38,7 @@ This Backlog has a priority 1-3.
 
 
 # Later work and known issues
-This is not a bucket list. But for now, what's coming next?
+This is not a bucket list. But for now, our best guess.
 
 ## Known issues
 - None other than in "Last fixes" above.
