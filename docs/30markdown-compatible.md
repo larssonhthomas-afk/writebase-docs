@@ -16,6 +16,8 @@ This document is a test of what Markdown that works within the editor (app) and 
 
 ### Header 3
 
+
+# Paragraphs and text formating.
 Paragraph of much text in this that we write long text **about**. Now and in ***the*** future of writing, it is [always](url) there. Always on top.  
 
 New row gives this in a new Paragraph. Yes, how convenient.
