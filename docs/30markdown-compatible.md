@@ -25,7 +25,7 @@ New row gives this in a new Paragraph. Yes, how convenient.
 ***bold italic***
 ~~strikethrough~~
 
-Numbered list
+## Numbered list
 1. First line.
 2. Second line.
 3. Third Line.
