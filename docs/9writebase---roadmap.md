@@ -27,7 +27,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] PUBLISH-WIKI: Remove older page?
-- [ ] PUBLISH-WIKI: 
+- [ ] PUBLISH-WIKI: [ ] - Isn´t seen.
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
