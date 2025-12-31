@@ -20,7 +20,7 @@ This Backlog has a priority 1-3.
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [ ] : Article to LinkedIn / Substack "Seeking Gang of 8".
+- [ ] MARCOM: Article to LinkedIn / Substack "Seeking Gang of 8".
 - [ ] TEST: Bug fixes, regression tests
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
