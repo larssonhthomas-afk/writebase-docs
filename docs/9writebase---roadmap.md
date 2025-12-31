@@ -20,13 +20,13 @@ This Backlog has a priority 1-3.
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [ ] PUBLISH: Article to LinkedIn / Substack "Seeking Gang of 8".
+- [ ] : Article to LinkedIn / Substack "Seeking Gang of 8".
 - [ ] TEST: Bug fixes, regression tests
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] P
+- [ ] 
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
