@@ -28,7 +28,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] PUBLISH-WIKI: Remove older page?
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
-- [ ] APP: Open with url:link to app.writerbase.app/
+- [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
