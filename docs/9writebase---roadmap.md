@@ -29,7 +29,7 @@ This Backlog has a priority 1-3.
 - [ ] PUBLISH-WIKI: Remove older page?
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
-- [ ] MARKDOWN: List now render as it should in Preview or Publish to 
+- [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
@@ -64,7 +64,7 @@ This is not a bucket list. But for now, our best guess.
 ## Export
 
 - [ ] Export to .docx using only the default format. Word's own defaults only.
-~~- [ ] Print styles: no. Raw only.~~
+- [x] Print styles: no. Raw only.
   
 ## Outline Pane
 
