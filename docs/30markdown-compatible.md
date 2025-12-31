@@ -37,6 +37,7 @@ New row gives this in a new Paragraph. Yes, how convenient.
 2. Second line.
 3. Third Line.
 
+## Bullet list
 
 - Bulletpoint 1
 - Bulletpoint 2
