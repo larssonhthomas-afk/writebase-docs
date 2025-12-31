@@ -15,6 +15,9 @@ This Backlog has a priority 1-3.
 
 # Release 1 - Beta - (p1)
 
+### Marketing
+
+
 ### Last fixes before "Gang of 8" (Goal 2026 Q1)
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started.
@@ -64,7 +67,7 @@ This is not a bucket list. But for now, our best guess.
 ## Export
 
 - [ ] Export to .docx using only the default format. Word's own defaults only.
-- [x] Print styles: no. Raw only.
+- [x] ~~Print styles: no. Raw only.~~
   
 ## Outline Pane
 
