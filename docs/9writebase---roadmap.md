@@ -17,13 +17,13 @@ This Backlog has a priority 1-3.
 
 ### Marketing
 
-
+- [ ] MARCOM: Article to LinkedIn / Substack "Seeking Gang of 8".
+- [ ]
 ### Last fixes before "Gang of 8" (Goal 2026 Q1)
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [ ] MARCOM: Article to LinkedIn / Substack "Seeking Gang of 8".
 - [ ] TEST: Bug fixes, regression tests
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
