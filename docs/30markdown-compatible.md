@@ -20,7 +20,7 @@ New row gives this in a new Paragraph. Yes, how convenient.
 
 `New Paragraph. Is this with linebreaks in HTML or does it just become one long, long row?`
 
-Combine with before. New row.  
+Could you combine with before? New row.  
 
 **bold**
 *italic*
