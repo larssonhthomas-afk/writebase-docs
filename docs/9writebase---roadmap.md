@@ -18,7 +18,8 @@ This Backlog has a priority 1-3.
 ### Marketing
 
 - [ ] MARCOM: Article to LinkedIn / Substack "Seeking Gang of 8".
-- [ ]
+- [ ] MARCOM: Video introduction to the app.
+
 ### Last fixes before "Gang of 8" (Goal 2026 Q1)
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started.
