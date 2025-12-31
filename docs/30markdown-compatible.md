@@ -22,8 +22,6 @@ Paragraph of much text in this that we write long text **about**. Now and in ***
 
 New row gives this in a new Paragraph. Yes, how convenient.
 
-`New Paragraph. Is this with linebreaks in HTML or does it just become one long, long row?`
-
 **bold**
 *italic*
 ***bold italic***
