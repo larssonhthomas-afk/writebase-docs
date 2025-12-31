@@ -29,7 +29,7 @@ This Backlog has a priority 1-3.
 - [ ] PUBLISH-WIKI: Remove older page?
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
-- [ ] MARKDOWN: 
+- [ ] MARKDOWN: List now render as it should in 
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
