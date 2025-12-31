@@ -35,6 +35,8 @@ This Backlog has a priority 1-3.
 - [x] PACKAGING: Tauri for Desktop - Tested ok.
 - [x] PACKAGING: Vercel for Web - Tested ok.
 
+
+
 # Later work and known issues
 This is not a bucket list. But for now, what's coming next?
 
