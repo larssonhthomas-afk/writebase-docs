@@ -30,7 +30,7 @@ This Backlog has a priority 1-3.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] PUBLISH-WIKI: Remove older page - status.
+- [ ] PUBLISH-WIKI: Remove older page - status?
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
