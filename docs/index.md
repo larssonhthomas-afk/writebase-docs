@@ -10,4 +10,5 @@ Welcome to WriteBase documentation.
 
 - [WriteBase - Documentation](./[object Object].md)
 - [WriteBase - Roadmap](./[object Object].md)
+- [PUBLISH](./[object Object].md)
 - [Markdown Compatible](./[object Object].md)
