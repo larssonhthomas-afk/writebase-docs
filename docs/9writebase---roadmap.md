@@ -22,6 +22,7 @@ This Backlog has a priority 1-3.
 
 ### Last fixes before "Gang of 8" (Goal 2026 Q1)
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
+- [ ] LICENSE: Not the real logo.
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] SHORTCUTS: Review keyboard shortcuts.
