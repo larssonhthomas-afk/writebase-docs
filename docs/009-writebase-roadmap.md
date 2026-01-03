@@ -27,6 +27,7 @@ This Backlog has a priority 1-3.
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started. (p1)
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verify
+- [ ] PROJECT: Add, change, remove.
 
 **Minor:**
 
