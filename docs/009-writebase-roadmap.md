@@ -33,6 +33,7 @@ This Backlog has a priority 1-3.
 
 - [x] LICENSE: Not the real logo.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
+- [ ] METADATA: Not updated after 
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
