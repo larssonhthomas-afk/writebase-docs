@@ -8,7 +8,7 @@ Welcome to WriteBase documentation.
 
 ## Contents
 
-- [WriteBase - Documentation](./[object Object].md)
+- [Documentation](./[object Object].md)
 - [Getting Started](./[object Object].md)
 - [WriteBase - Roadmap](./[object Object].md)
 - [Markdown Compatible](./[object Object].md)
