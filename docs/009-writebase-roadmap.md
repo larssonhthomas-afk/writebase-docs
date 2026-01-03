@@ -30,8 +30,7 @@ This Backlog has a priority 1-3.
 
 - [ ] TEST: Bug fixes, regression tests
 
-- [ ] AGENT: JSON Output? Structure.
-- [ ] AGENT: JSON Change, focus on the exact text.
+
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
@@ -42,7 +41,9 @@ This Backlog has a priority 1-3.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
-
+- [ ] AGENT: JSON Output? Structure.
+- [ ] AGENT: JSON Change, focus on the exact text.
+      
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
