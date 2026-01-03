@@ -28,7 +28,7 @@ This Backlog has a priority 1-3.
 - [ ] DOCUMENTATION: How to get started. (p1)
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verify
 - [ ] PROJECT: Add, change, remove.
-- [ ] Responsivt UI / PWA
+- [ ] APP: Responsive web-app. UI / PWA
 
 **Minor:**
 
