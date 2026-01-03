@@ -25,7 +25,6 @@ This Backlog has a priority 1-3.
 **Major:**
 
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
-- [ ] LICENSE: Not the real logo.
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] SHORTCUTS: Review keyboard shortcuts.
