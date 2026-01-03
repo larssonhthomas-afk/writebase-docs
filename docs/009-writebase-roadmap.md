@@ -42,7 +42,7 @@ This Backlog has a priority 1-3.
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
-- [x] Separate Last\_Modified (UI) vs Content\_Modified (trigger)
+- [x] Separate Last Modified (UI) vs Content\_Modified (trigger)
 - [x] Fix Needs\_Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
