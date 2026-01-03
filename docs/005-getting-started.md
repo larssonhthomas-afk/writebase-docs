@@ -19,7 +19,7 @@ Get WriteBase connected to your Airtable in 5 minutes.
 
 Open the WriteBaseApp template and click **"Use this data"** to copy it to your Airtable workspace.
 
-→ [WriteBaseApp Template](https://airtable.com/appXXXXXXXX/shrXXXXXXXX)
+→ [WriteBaseApp Template](https://airtable.com/appXXXXXXXX/shrXXXXXXXX) (comming soon)
 
 ![Duplicate Airtable Base](./assets/Duplicate_Airtable_Base.png)
 *Duplicate Airtable Base*
