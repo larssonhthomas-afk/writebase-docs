@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WriteBase - Documentation"
+title: "Documentation"
 nav_order: 1
 ---
 
