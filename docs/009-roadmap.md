@@ -26,22 +26,25 @@ This Backlog has a priority 1-3.
 
 - [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
 - [x] DOCUMENTATION: How to get started. (p1)
-- [ ] APP: Open with url:link to app.writerbase.app/xxx - Verify
-- [ ] PROJECT: Add, change, remove.
+- [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
+- [x] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
 
 **Minor:**
 
 - [x] LICENSE: Not the real logo.
+- [ ] DOCUMENT-LIST: Jumps when I update or add a document.
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] METADATA: Not updated after "New Document".
+- [ ] WORKSPACE: Add Icon-picker (same as Projects).
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] Verify local settings are saved at app.writebase.app after reopen.
-- [ ] DOMAIN: Add write.writebase.app to Writing app.
+
+- [x] DOMAIN: Add write.writebase.app to Writing app.
 - [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
 - [x] METADATA: Wrong format on Time.      
 - [x] METADATA: Show only content in AI fields.
