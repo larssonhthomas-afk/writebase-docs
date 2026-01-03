@@ -47,6 +47,7 @@ This Backlog has a priority 1-3.
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
+- [ ] TEST: Bug fixes, regression tests
 - [x] PACKAGING: Tauri for Desktop - Tested ok.
 - [x] PACKAGING: Vercel for Web - Tested ok.
 
