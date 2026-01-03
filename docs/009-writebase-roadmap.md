@@ -35,7 +35,7 @@ This Backlog has a priority 1-3.
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
-- [ ] METADATA: Show only content in AI fields.
+- [x] METADATA: Show only content in AI fields.
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
 - [x] Separate Last\_Modified (UI) vs Content\_Modified (trigger)
 - [x] Fix Needs\_Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
