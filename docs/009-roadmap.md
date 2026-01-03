@@ -32,6 +32,7 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [x] LICENSE: Not the real logo.
+- [ ] METADATA: Settings dosen´t save?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] METADATA: Not updated after "New Document".
 - [ ] APP: When you load a Workspace, the document list does not load.
