@@ -32,6 +32,7 @@ This Backlog has a priority 1-3.
 
 **Minor:**
 
+
 - [x] LICENSE: Not the real logo.
 - [ ] METADATA: Settings don´t save in local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
