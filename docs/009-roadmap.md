@@ -42,7 +42,8 @@ This Backlog has a priority 1-3.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] Verify local settings are saved at app.writebase.app after reopen.
+- [ ] Verify local settings are saved at app.writebase.app after reopen.'
+- [ ] - [ ] Shifting 
 
 - [x] DOMAIN: Add write.writebase.app to Writing app.
 - [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
@@ -52,7 +53,7 @@ This Backlog has a priority 1-3.
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
 - [x] Separate Last Modified (UI) vs Content Modified (trigger)
 - [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
-- [ ] Shifting 
+
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
