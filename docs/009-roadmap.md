@@ -43,7 +43,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] Verify local settings are saved at app.writebase.app after reopen.'
-- [ ] Changing Workspace dosent change the document. It should just load last_modfied document (recent).
+- [ ] Changing Workspace doesn't change the document. It should just load the last modified document (recent).
 
 - [x] DOMAIN: Add write.writebase.app to Writing app.
 - [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
