@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Compatible"
-nav_order: 30
+nav_order: 1
 ---
 
 # Verified Markdown
