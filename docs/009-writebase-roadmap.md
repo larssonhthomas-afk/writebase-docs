@@ -30,7 +30,7 @@ This Backlog has a priority 1-3.
 
 **Minor:**
 
-- [ ] LICENSE: Not the real logo.
+- [x] LICENSE: Not the real logo.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
