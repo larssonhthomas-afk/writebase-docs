@@ -41,8 +41,8 @@ This Backlog has a priority 1-3.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
 - [ ] Verify local settings are saved at app.writebase.app after reopen.
-- [x] METADATA: Wrong format on Time.
-      
+
+- [x] METADATA: Wrong format on Time.      
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
