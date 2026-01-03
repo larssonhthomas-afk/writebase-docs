@@ -27,7 +27,7 @@ This Backlog has a priority 1-3.
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
-- [ ] SHORTCUTS: Review keyboard shortcuts.
+
 - [ ] TEST: Bug fixes, regression tests
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
@@ -40,7 +40,7 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [ ] LICENSE: Not the real logo.
-
+- [ ] SHORTCUTS: Review keyboard shortcuts.
 
 
 - [x] METADATA: Show only content in AI fields.
