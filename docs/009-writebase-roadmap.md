@@ -29,8 +29,7 @@ This Backlog has a priority 1-3.
 - [ ] DOCUMENTATION: Overall start guide
 
 - [ ] TEST: Bug fixes, regression tests
-- [ ] APP: When you load a Workspace, the document list does not load.
-- [ ] APP: Title is not visible in Workspace when I need to select.
+
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
@@ -41,7 +40,8 @@ This Backlog has a priority 1-3.
 
 - [ ] LICENSE: Not the real logo.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-
+- [ ] APP: When you load a Workspace, the document list does not load.
+- [ ] APP: Title is not visible in Workspace when I need to select.
 
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
