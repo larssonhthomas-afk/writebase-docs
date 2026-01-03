@@ -80,10 +80,11 @@ This is not a bucket list. But for now, our best guess.
 - [ ] Collect over time (partly in History and Agent Logs)
 - [ ] Manual revision of instruction when it feels right
 
-## Markdown- [-] ~~Todo 3 (Removed)~~
-- [/] Todo 4 (Work in progress)
+## Markdown
 
-Also see, Obsidian.
+Later possible markdown for Checkboxes, also see Obsidian.
+- [-] ~~Todo 3 (Removed)~~
+- [/] Todo 4 (Work in progress)
 
 ## Export
 
