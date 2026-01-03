@@ -38,6 +38,7 @@ This Backlog has a priority 1-3.
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
 
 **Minor:**
+- [ ] LICENSE: Not the real logo.
 
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
