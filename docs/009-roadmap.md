@@ -33,14 +33,14 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [x] LICENSE: Not the real logo.
-- [ ] - [ ] METADATA: Settings don't save in the local file?
+- [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] METADATA: Not updated after "New Document".
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
+- [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
 - [ ] Verify local settings are saved at app.writebase.app after reopen.
 
 - [x] METADATA: Wrong format on Time.      
