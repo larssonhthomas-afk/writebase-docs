@@ -36,7 +36,8 @@ This Backlog has a priority 1-3.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki,
+- [ ] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
+- [ ] Verify local settings is set at app.writebase.app
       
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
