@@ -43,6 +43,7 @@ This Backlog has a priority 1-3.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
+- [ ] PUBLISH-WIKI: [ ] - Isn't seen.
       
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
