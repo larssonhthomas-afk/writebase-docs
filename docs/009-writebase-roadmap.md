@@ -31,10 +31,13 @@ This Backlog has a priority 1-3.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] PUBLISH-WIKI: Remove older page - status?
+- [x] PUBLISH-WIKI: Remove older page - status?
 - [ ] PUBLISH-WIKI: [ ] - Isn't seen.
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
+- [ ] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
+- [ ] Separate Last\_Modified (UI) vs Content\_Modified (trigger)
+- [ ] Fix Needs\_Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
