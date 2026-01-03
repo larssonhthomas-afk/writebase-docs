@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "WriteBase - Roadmap"
+title: "Roadmap"
 nav_order: 9
 ---
 
