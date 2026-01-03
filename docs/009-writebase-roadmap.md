@@ -25,7 +25,7 @@ This Backlog has a priority 1-3.
 **Major:**
 
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
-- [ ] DOCUMENTATION: How to get started.
+- [ ] DOCUMENTATION: How to get started. (p1)
 - [ ] DOCUMENTATION: Overall start guide
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 
@@ -42,8 +42,8 @@ This Backlog has a priority 1-3.
 - [x] METADATA: Show only content in AI fields.
 - [x] PUBLISH-WIKI: Remove older page - status?
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
-- [x] Separate Last Modified (UI) vs Content\_Modified (trigger)
-- [x] Fix Needs\_Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
+- [x] Separate Last Modified (UI) vs Content Modified (trigger)
+- [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
