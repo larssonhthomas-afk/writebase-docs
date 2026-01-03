@@ -27,7 +27,6 @@ This Backlog has a priority 1-3.
 - [ ] TEMPLATE: Create an Airtable for WriteBase. (p1)
 - [ ] DOCUMENTATION: How to get started.
 - [ ] DOCUMENTATION: Overall start guide
-- [ ] TEST: Bug fixes, regression tests
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 
 **Minor:**
