@@ -31,7 +31,7 @@ This Backlog has a priority 1-3.
 - [ ] TEST: Bug fixes, regression tests
 
 
-- [ ] PUBLISH-WIKI: [ ] - Isn't seen.
+
 - [ ] APP: Open with url:link to app.writerbase.app/xxx - Verifiy
 - [ ] MARKDOWN: List now render as it should in Preview or Publish to Wiki.
 
