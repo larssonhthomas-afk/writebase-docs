@@ -27,24 +27,21 @@ This Backlog has a priority 1-3.
 - [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
 - [x] DOCUMENTATION: How to get started. (p1)
 - [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
-- [x] PROJECT: Add, change, remove.
+- [ ] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
-- [ ] IMPORT-SCRIPT: Notion, .md files, Obsidian
+- [ ] SEARCH: For documents, tags so on.
 
 **Minor:**
 
 - [x] LICENSE: Not the real logo.
-- [ ] DOCUMENT-LIST: Jumps when I update or add a document.
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] METADATA: Not updated after "New Document".
-- [ ] WORKSPACE: Add Icon-picker (same as Projects).
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] Verify local settings are saved at app.writebase.app after reopen.'
-- [ ] Changing Workspace doesn't change the document. It should just load the last modified document (recent).
+- [ ] Verify local settings are saved at app.writebase.app after reopen.
 
 - [x] DOMAIN: Add write.writebase.app to Writing app.
 - [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
@@ -54,7 +51,6 @@ This Backlog has a priority 1-3.
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
 - [x] Separate Last Modified (UI) vs Content Modified (trigger)
 - [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
-
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
