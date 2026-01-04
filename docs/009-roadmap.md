@@ -29,7 +29,7 @@ This Backlog has a priority 1-3.
 - [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
 - [x] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
-- [ ] IMPORT: Notion, .md files, Obsidian
+- [ ] IMPORT-SCRIPT: Notion, .md files, Obsidian
 
 **Minor:**
 
