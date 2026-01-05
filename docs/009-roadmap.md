@@ -43,6 +43,8 @@ This Backlog has a priority 1-3.
 - [ ] AGENT: JSON Change, focus on the exact text.
 - [ ] Verify local settings are saved at app.writebase.app after reopen.
 
+- [x] LICENSE: Not the real logo.
+- [x] DOCUMENT-LIST: Filter on Workspace via PROJECTS.
 - [x] DOMAIN: Add write.writebase.app to Writing app.
 - [x] MARKDOWN: [ ] - does not render correctly in Preview or Publish in Wiki.
 - [x] METADATA: Wrong format on Time.      
