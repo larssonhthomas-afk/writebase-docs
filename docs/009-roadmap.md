@@ -29,7 +29,7 @@ This Backlog has a priority 1-3.
 - [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
 - [x] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
-- [ ] SEARCH: For documents, tags so on.
+- [ ] SEARCH: For documents, tags, and so on.
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
 
 **Minor:**
