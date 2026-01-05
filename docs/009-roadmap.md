@@ -53,7 +53,7 @@ This Backlog has a priority 1-3.
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
 - [x] Separate Last Modified (UI) vs Content Modified (trigger)
 - [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
-- [ ] DOCUMENTATION
+- [ ] DOCUMENTATION: table.DOCUMENT
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
