@@ -27,10 +27,10 @@ This Backlog has a priority 1-3.
 - [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
 - [x] DOCUMENTATION: How to get started. (p1)
 - [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
-- [ ] PROJECT: Add, change, remove.
+- [x] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
 - [ ] SEARCH: For documents, tags so on.
-- [ ] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
+- [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
 
 **Minor:**
 
