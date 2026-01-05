@@ -36,8 +36,8 @@ This Backlog has a priority 1-3.
 
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [] METADATA: Not updated after "New Document".
-- [ ] APP: When you load a Workspace, the document list does not load.
+- [ ] METADATA: Not updated after "New Document".
+- [x] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
 - [ ] AGENT: JSON Change, focus on the exact text.
