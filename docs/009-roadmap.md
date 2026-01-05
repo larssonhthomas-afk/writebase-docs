@@ -30,6 +30,7 @@ This Backlog has a priority 1-3.
 - [ ] PROJECT: Add, change, remove.
 - [ ] APP: Responsive web-app. UI / PWA
 - [ ] SEARCH: For documents, tags so on.
+- [ ] Import-Script for Notion (very hacky but works)
 
 **Minor:**
 
