@@ -35,7 +35,7 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [x] LICENSE: Not the real logo.
-- [ ] DOCUMENT-LIST: Filter on Workspace via Project.
+- [ ] DOCUMENT-LIST: Filter on Workspace via PROJECTS.
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] METADATA: Not updated after "New Document".
