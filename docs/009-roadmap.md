@@ -36,7 +36,7 @@ This Backlog has a priority 1-3.
 
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [ ] METADATA: Not updated after "New Document".
+- [] METADATA: Not updated after "New Document".
 - [ ] APP: When you load a Workspace, the document list does not load.
 - [ ] APP: Title is not visible in Workspace when I need to select.
 - [ ] AGENT: JSON Output? Structure.
@@ -53,7 +53,7 @@ This Backlog has a priority 1-3.
 - [x] Separera Last_Modified (trigger) vs Content_Modified (UI/sortering)
 - [x] Separate Last Modified (UI) vs Content Modified (trigger)
 - [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
-- [ ] DOCUMENTATION: table.DOCUMENT
+- [x] DOCUMENTATION: table.DOCUMENT
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
