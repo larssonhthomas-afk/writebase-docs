@@ -25,24 +25,27 @@ This Backlog has a priority 1-3.
 **Major:**
 
 - [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
+- [ ] APP: Responsive web-app. UI / PWA
+
+
+
+- [x] PROJECT: Overview in Editor.      
 - [x] DOCUMENTATION: How to get started. (p1)
 - [x] APP: Open with url:link to app.writerbase.app/xxx - Verify
 - [x] PROJECT: Add, change, remove.
-- [ ] APP: Responsive web-app. UI / PWA
-- [ ] SEARCH: For documents, tags, and so on.
+- [x] SEARCH: For documents, tags, and so on via Control-Console
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
 
 **Minor:**
 
 - [ ] METADATA: Settings don't save in the local file?
 - [ ] SHORTCUTS: Review keyboard shortcuts.
-- [ ] METADATA: Not updated after "New Document".
-- [x] APP: When you load a Workspace, the document list does not load.
-- [ ] APP: Title is not visible in Workspace when I need to select.
-- [ ] AGENT: JSON Output? Structure.
-- [ ] AGENT: JSON Change, focus on the exact text.
-- [ ] Verify local settings are saved at app.writebase.app after reopen.
+- [ ] AGENTS: Test with "Outline".
 
+- [x] EDITOR: Add "Outline" as a Field for keeping the structure intact for both normal documents and fiction writing.
+- [x] EDITOR: After list. Double Enter break list.
+- [x] APP: When you load a Workspace, the document list does not load.
+- [x] APP: Title is not visible in Workspace when I need to select.
 - [x] LICENSE: Not the real logo.
 - [x] DOCUMENT-LIST: Filter on Workspace via PROJECTS.
 - [x] DOMAIN: Add write.writebase.app to Writing app.
@@ -70,9 +73,10 @@ This is not a bucket list. But for now, our best guess.
 
 ## Backlog
 
-- [ ] / as a command (CTRL+K)?
+- [x] / as a command (⌘J) - Opens Command Pallet.
+- [ ] WordCount & Goals - For document, project (books).
 - [ ] Cross-search, use embeddings per document.
-- [ ] Reference Database
+- [ ] REFERENCE: Create a function and use the TABLE similar to ASSET.
 - [ ] Auto-reference similar job.
 - [x] Notes,  connected to a Doc
 - [ ] Node,  visualization
@@ -115,6 +119,3 @@ Integrate additional publication workflows in the future:
 - [ ] WordPress
 - [ ] Ghost
 - [ ] Minor
-  
-
-
