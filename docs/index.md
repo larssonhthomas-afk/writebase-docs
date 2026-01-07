@@ -13,4 +13,5 @@ Welcome to WriteBase documentation.
 - [Roadmap](./[object Object].md)
 - [Markdown Compatible](./[object Object].md)
 - [PUBLISH](./[object Object].md)
+- [Command Palette](./[object Object].md)
 - [table.DOCUMENT](./[object Object].md)
