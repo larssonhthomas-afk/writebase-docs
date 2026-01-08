@@ -37,7 +37,7 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [ ] METADATA: Settings don't save in the local file?
-- [ ] WRITE GOAL: Document
+- [x] WRITE GOAL: Document
 - [ ] WRITE GOAL: Projects
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
