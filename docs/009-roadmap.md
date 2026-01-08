@@ -42,7 +42,6 @@ This Backlog has a priority 1-3.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
-- [ ] ADD-ICON: inbox, shield, atom, chess-rookchess-queen
 
 - [x] EDITOR: Add "Outline" as a Field for keeping the structure intact for both normal documents and fiction writing.
 - [x] EDITOR: After list. Double Enter break list.
