@@ -78,7 +78,6 @@ This is not a bucket list. But for now, our best guess.
 ## Backlog
 
 - [x] / as a command (⌘J) - Opens Command Pallet.
-- [ ] WordCount & Goals - For document, project (books).
 - [ ] Cross-search, use embeddings per document.
 - [ ] REFERENCE: Create a function and use the TABLE similar to ASSET.
 - [ ] Auto-reference similar job.
