@@ -81,8 +81,8 @@ This is not a bucket list. But for now, our best guess.
 - [ ] Cross-search, use embeddings per document.
 - [ ] REFERENCE: Create a function and use the TABLE similar to ASSET.
 - [ ] Auto-reference similar job.
-- [x] Notes,  connected to a Doc
-- [ ] Node,  visualization
+- [x] Notes, connected to a Doc
+- [ ] Node, visualization
 - [ ] Mermaid connection
 - [ ] Highlight text — send to NOTE.
 - [ ] Image upload
