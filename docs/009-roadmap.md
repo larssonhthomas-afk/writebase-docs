@@ -38,7 +38,7 @@ This Backlog has a priority 1-3.
 
 - [x] METADATA: Settings don't save in the local file?
 - [x] WRITE GOAL: Document
-- [ ] NEW DOCUMENT: Only the same as in Project. Same Sorting.
+- [ ] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [ ] WRITE GOAL: Projects
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
