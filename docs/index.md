@@ -10,7 +10,7 @@ Welcome to WriteBase documentation.
 
 - [Documentation](./[object Object].md)
 - [Getting Started](./[object Object].md)
-- [Roadmap](./[object Object].md)
+- [Backlog & Roadmap](./[object Object].md)
 - [Markdown Compatible](./[object Object].md)
 - [PUBLISH](./[object Object].md)
 - [Command Palette](./[object Object].md)
