@@ -79,6 +79,7 @@ This is not a bucket list. But for now, our best guess.
 
 ## Backlog
 
+- [ ] - [ ] AGENT-PANE: InlineAgentComments
 - [x] / as a command (⌘J) - Opens Command Pallet.
 - [ ] Cross-search, use embeddings per document.
 - [ ] REFERENCE: Create a function and use the TABLE similar to ASSET.
