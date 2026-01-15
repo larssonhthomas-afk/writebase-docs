@@ -86,6 +86,7 @@ This is not a bucket list. But for now, our best guess.
 - [ ] Mermaid connection
 - [ ] Highlight text — send to NOTE.
 - [ ] Image upload
+- [ ] Collaboration
 
 ## Add Feedback field to Agent runs (Airtable)
 
