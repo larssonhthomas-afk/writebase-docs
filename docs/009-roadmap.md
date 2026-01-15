@@ -40,7 +40,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
 
-- [ ] METADATA-DEFAULT: If "Status", "TAG" 
+- [ ] METADATA-DEFAULT: If "Status", "TAG" are avalible they should be 
 - [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
