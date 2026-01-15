@@ -44,7 +44,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENT-PANE: InlineAgentComments
 - [x] LEFT-PANE: Save projekt expand/collapse state in localStorage. Default Open. Expanded = True.
 - [x] ADD-ICON: inbox, shield, atom, chess-rook, chess-queen, crown, factory, flag, sparkles
-- [ ] NOTE: Edit Status doesn't save to Db.
+- [x] NOTE: Edit Status doesn't save to Db.
 
 - [x] EDITOR: Add "Outline" as a Field for keeping the structure intact for both normal documents and fiction writing.
 - [x] EDITOR: After list. Double Enter break list.
