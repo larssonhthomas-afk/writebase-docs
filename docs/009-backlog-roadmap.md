@@ -63,6 +63,8 @@ This Backlog has a priority 1-3.
 - [x] Separate Last Modified (UI) vs Content Modified (trigger)
 - [x] Fix Needs Publish loop - create separate modified fields (Content, Title, Slug, Publish) for trigger formula
 - [x] DOCUMENTATION: table.DOCUMENT
+- [ ] - [x] / as a command (⌘J) - Opens Command Pallet.
+
 
 ### Last fixes before Release 1 - Beta (Goal 2026 Q2)
 
