@@ -36,7 +36,7 @@ This Backlog has a priority 1-3.
 
 **Minor:**
 - [ ] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
-- [ ] WRITE GOAL: Projects
+- [x] WRITE GOAL: Projects
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
@@ -87,7 +87,7 @@ This is not a bucket list. But for now, our best guess.
 - [ ] Highlight text — send to NOTE.
 - [ ] Image upload
 - [ ] Collaboration
-- [ ] 
+- [ ] Version
 
 ## Add Feedback field to Agent runs (Airtable)
 
