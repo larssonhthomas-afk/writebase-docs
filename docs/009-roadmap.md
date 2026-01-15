@@ -35,7 +35,7 @@ This Backlog has a priority 1-3.
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
 
 **Minor:**
-- [ ] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
+- [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [x] WRITE GOAL: Projects
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
