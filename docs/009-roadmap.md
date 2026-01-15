@@ -33,6 +33,7 @@ This Backlog has a priority 1-3.
 - [x] PROJECT: Add, change, remove.
 - [x] SEARCH: For documents, tags, and so on via Control-Console
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
+- [ ] Export to Word & PDF.
 
 **Minor:**
 
