@@ -35,12 +35,14 @@ This Backlog has a priority 1-3.
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
 
 **Minor:**
-- [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
-- [x] WRITE GOAL: Projects
+
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
 
+
+- [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
+- [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
 - [x] WRITE GOAL: Document
 - [x] LEFT-PANE: Save projekt expand/collapse state in localStorage. Default Open. Expanded = True.
