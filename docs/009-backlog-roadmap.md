@@ -39,7 +39,6 @@ This Backlog has a priority 1-3.
 
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
-- [ ] AGENT-PANE: InlineAgentComments
 
 - [x] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On".
 - [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
