@@ -42,7 +42,7 @@ This Backlog has a priority 1-3.
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
-- [ ] LEFT-PANE: When 
+- [ ] LEFT-PANE: When edit a project it reloads and every 
 - [x] ADD-ICON: inbox, shield, atom, chess-rook, chess-queen, crown, factory, flag, sparkles
 - [ ] NOTE: Edit Status doesn't save to Db.
 
