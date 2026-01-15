@@ -33,7 +33,7 @@ This Backlog has a priority 1-3.
 - [x] PROJECT: Add, change, remove.
 - [x] SEARCH: For documents, tags, and so on via Control-Console
 - [x] [Import-Script for Notion](https://github.com/larssonhthomas-afk/WriteBase-Notion_Import) (very hacky but works)
-- [ ] Export to Word & PDF.
+- [x] Export to Word & PDF.
 
 **Minor:**
 
@@ -41,7 +41,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
 
-- [ ] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On".
+- [ ] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On"
 - [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
