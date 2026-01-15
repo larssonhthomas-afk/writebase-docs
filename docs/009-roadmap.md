@@ -36,13 +36,13 @@ This Backlog has a priority 1-3.
 
 **Minor:**
 
-- [ ] METADATA: Settings don't save in the local file?
+- [x] METADATA: Settings don't save in the local file?
 - [x] WRITE GOAL: Document
 - [ ] WRITE GOAL: Projects
 - [ ] SHORTCUTS: Review keyboard shortcuts.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
-- [ ] ADD-ICON: inbox, shield, atom, chess-rook, chess-queen, crown, factory, flag, sparkles
+- [] ADD-ICON: inbox, shield, atom, chess-rook, chess-queen, crown, factory, flag, sparkles
 - [ ] NOTE: Edit Status doesn't save to Db.
 
 - [x] EDITOR: Add "Outline" as a Field for keeping the structure intact for both normal documents and fiction writing.
