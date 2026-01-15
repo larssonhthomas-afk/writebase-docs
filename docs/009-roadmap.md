@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Roadmap"
+title: "Backlog & Roadmap"
 nav_order: 9
 ---
 
@@ -41,7 +41,7 @@ This Backlog has a priority 1-3.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT-PANE: InlineAgentComments
 
-- [ ] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On"
+- [x] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On".
 - [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
