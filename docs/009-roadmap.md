@@ -25,7 +25,7 @@ This Backlog has a priority 1-3.
 **Major:**
 
 - [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
-- [ ] APP: Responsive web-app. UI / PWA
+- [x] APP: Responsive web-app. UI / PWA
 
 - [x] PROJECT: Overview in Editor.      
 - [x] DOCUMENTATION: How to get started. (p1)
