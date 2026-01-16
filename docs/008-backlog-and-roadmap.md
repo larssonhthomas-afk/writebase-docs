@@ -38,7 +38,7 @@ This Backlog has a priority 1-3.
 **Minor:**
 
 - [x] SHORTCUTS: Review keyboard shortcuts.
-"Update shortcuts: Remove ⌘\ (toggle sidebar, dosent work). Add: ⌘J = Command Palette, ⌘. = Fullscreen, ⌘T = Typewriter Mode."
+"Update shortcuts: Remove ⌘\ (toggle sidebar, doesn't work). Add: ⌘J = Command Palette ⌘. = Fullscreen, ⌘T = Typewriter Mode."
 
 
 - [x] WORKSPACE: When adding in write.writebase.app I cant see name on You missWorkspace.
@@ -47,7 +47,7 @@ This Backlog has a priority 1-3.
 
 
 - [ ] DEPLOY: Add GIT-Repository to Vercel and autodeploy. 
-- [ ] WORKSPACE: Adding new. Default project is PROJECT. Default Name is Primary field (for e.g. Name).
+- [ ] WORKSPACE: Adding new. The default project is PROJECT. Default Name is Primary field (for e.g. Name).
 - [ ] WORKSPACE: Adding an new to same already connected Db.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT: Writing Coach - inline @writer #tagg comment
