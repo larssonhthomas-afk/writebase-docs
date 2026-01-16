@@ -48,10 +48,10 @@ This Backlog has a priority 1-3.
 
 - [ ] DEPLOY: Add GIT-Repository to Vercel and autodeploy. 
 - [ ] WORKSPACE: Adding new. The default project is PROJECT. Default Name is Primary field (for e.g. Name).
-- [ ] WORKSPACE: Adding an new to same already connected Db.
+- [ ] WORKSPACE: Adding a new to the same already connected DB.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT: Writing Coach - inline @writer #tagg comment
-- [ ] URL: To document. Always show url (recordID).
+- [ ] URL: To document. Always show URL (recordID).
 - [ ] WORKPLACE: When an error "Invalid authentication token" is on a Workspace. Send an Warning-icon in the UI on "Workspace".
 - [ ] Versioning publish.
 - [ ] Test version.
