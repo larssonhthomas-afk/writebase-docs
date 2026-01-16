@@ -48,7 +48,7 @@ This Backlog has a priority 1-3.
 
 - [ ] DEPLOY: Add GIT-Repository to Vercel and autodeploy. 
 - [ ] WORKSPACE: Adding new. The default project is PROJECT. Default Name is the Primary field (e.g., Name).
-- [ ] WORKSPACE: Adding a new to the same already connected DB.
+- [ ] WORKSPACE: Adding a new one to the same already connected DB.
 - [ ] AGENTS: Test with "Outline" and add what fields and select to define the whole Agent, and Output.
 - [ ] AGENT: Writing Coach - inline @writer #tagg comment
 - [ ] URL: To document. Always show URL (recordID).
@@ -56,7 +56,7 @@ This Backlog has a priority 1-3.
 - [ ] Versioning publish.
 - [ ] Test version.
 
-- [x] METADATA-DEFAULT: If "Status", "TAG" are avalible in Airtable they should be set as "On".
+- [x] METADATA-DEFAULT: If "Status", "TAG" are available in Airtable, they should be set as "On".
 - [x] NEW DOCUMENT: Only the same Projects as in Workspace. Same Sorting.
 - [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
