@@ -42,7 +42,7 @@ This Backlog has a priority 1-3.
 
 
 - [x] WORKSPACE: When adding in write.writebase.app I cant see name on You missWorkspace.
-- [x] LEFT-PANE: After adding Workspace. It doesent automaticly load Document list.
+- [x] LEFT-PANE: After adding Workspace. It doesn't automatically load the Document list.
 - [x] LEFT-PANE: Not all documents are loaded. Not all projects.
 
 
