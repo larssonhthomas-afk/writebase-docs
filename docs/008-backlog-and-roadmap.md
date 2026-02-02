@@ -1,10 +1,7 @@
 ---
 layout: default
 title: "Backlog and Roadmap"
-nav_order: 8
----
-
-# Backlog and Roadmap
+---# Backlog and Roadmap
 
 What is prioritized? This is the current best guess of what we are fixing. If you need anything, please contact us in the Substack community.
 
@@ -24,7 +21,7 @@ This Backlog has a priority 1-3.
 
 **Major:**
 
-- [ ] TEMPLATE: Create an Airtable Template for WriteBase. (p1)
+- [ ] TEMPLATE: Create a Baserow Template for WriteBase. (p1)
 - [x] APP: Responsive web-app. UI / PWA
 
 - [x] PROJECT: Overview in Editor.      
@@ -61,7 +58,7 @@ This Backlog has a priority 1-3.
 - [x] WRITE GOAL: Projects
 - [x] METADATA: Settings don't save in the local file?
 - [x] WRITE GOAL: Document
-- [x] LEFT-PANE: Save projekt expand/collapse state in localStorage. Default Open. Expanded = True.
+- [x] LEFT-PANE: Save project expand/collapse state in localStorage. Default Open. Expanded = True.
 - [x] ADD-ICON: inbox, shield, atom, chess-rook, chess-queen, crown, factory, flag, sparkles
 - [x] NOTE: Edit Status doesn't save to Db.
 - [x] EDITOR: Add "Outline" as a Field for keeping the structure intact for both normal documents and fiction writing.
